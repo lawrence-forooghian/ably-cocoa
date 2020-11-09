@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.homepage          = "https://www.ably.io"
   s.license           = { :type => 'Apache 2.0', :file => 'LICENSE', :submodules => true }
   s.author            = { "Ably" => "support@ably.io" }
-  s.source            = { :git => "https://github.com/ably/ably-cocoa.git", :tag => s.version.to_s, :submodules => true }
+  s.source            = { :git => "https://github.com/lawrence-forooghian/ably-cocoa.git", :tag => s.version.to_s, :submodules => true }
   s.social_media_url  = 'https://twitter.com/ablyrealtime'
   s.documentation_url = "https://www.ably.io/documentation"
   s.ios.deployment_target = '9.0'
